@@ -77,7 +77,7 @@
             android:cursorVisible="true"
             android:textColorLink="@color/colorPrimary"
             android:onClick="openMailContact"
-            android:text="jimbaranmarket@gmail.com"
+            android:text="jimbaranmarket@gmail.com / adeliadensyana@gmail.com"
             />
 
     </LinearLayout>
